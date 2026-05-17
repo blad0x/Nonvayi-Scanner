@@ -46,6 +46,7 @@ Results will be saved automatically into:
 
 output.txt
 reportlogs Folder
+
 Compiled Version
 
 A precompiled executable version is also included for users who don't want to install Python manually.
