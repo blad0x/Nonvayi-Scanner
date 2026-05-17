@@ -1,8 +1,3 @@
-# Nonvayi-Scanner
-🥖 A fast, fully asynchronous, and multi-threaded CDN Fronting &amp; clean edge scanner powered by Python and a modern PyQt6 GUI.
-
-
-
 # NONVAYI Scanner
 
 Advanced CDN Fronting / TLS Edge Scanner built with Python + PyQt6.
