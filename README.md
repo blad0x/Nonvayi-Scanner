@@ -53,6 +53,4 @@ Notes
 Disable VPNs before scanning for accurate results
 Large scans may require stable internet and higher system resources
 
-Author
-
-NONVAYI Scanner by blad0x
+Author: blad0x
