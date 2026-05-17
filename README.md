@@ -34,7 +34,7 @@ However, the original idea, scanning logic direction, and the core project conce
 
 ```bash
 pip install PyQt6
-2. Run Source
+2. Run main.py
 python main.py
 3. Start Scanning
 Load IP list or CIDR ranges
