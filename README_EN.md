@@ -52,7 +52,7 @@ python main.py
 Results will be saved automatically into:
 
 - `output.txt`
-- `reportlogs` folder
+- `reportlogs`
 
 ## Compiled Version
 
