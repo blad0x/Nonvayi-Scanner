@@ -1,4 +1,4 @@
-# 🥖 NONVAYI Scanner
+🥖 NONVAYI Scanner
 
 اسکنر پیشرفته CDN Fronting و TLS Edge ساخته‌شده با Python + PyQt6
 
