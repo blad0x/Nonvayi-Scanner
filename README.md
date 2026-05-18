@@ -1,5 +1,64 @@
 # 🥖 NONVAYI Scanner
 
+اسکنر پیشرفته CDN Fronting و TLS Edge ساخته‌شده با Python + PyQt6
+
+## ویژگی‌ها
+
+- اسکن سریع IP به‌صورت Async
+- اعتبارسنجی TLS/SSL
+- تشخیص CDN Fronting
+- بررسی ICMP + TCP Fallback
+- پشتیبانی از CIDR Expansion
+- لاگ زنده و لحظه‌ای اسکن
+- سیستم خودکار مدیریت و چرخش خروجی‌ها
+
+## ساخته‌شده با
+
+- Python
+- PyQt6
+- asyncio
+- SSL/TLS Sockets
+- موتور اختصاصی UI و انیمیشن
+
+## توسعه با کمک هوش مصنوعی
+
+این پروژه به‌صورت کامل با کمک هوش مصنوعی نوشته، بهینه‌سازی و دیباگ شده است.
+
+انیمیشن‌های رابط کاربری، منطق اعتبارسنجی TLS، سیستم Async Networking و بهینه‌سازی‌های اسکنر با کمک توسعه مبتنی بر AI بهبود داده شده‌اند.
+
+با این حال، ایده اصلی پروژه، منطق کلی اسکن و مفهوم پایه پروژه توسط صاحب پروژه طراحی و ساخته شده است.
+
+## نحوه استفاده
+
+### 1. نصب پیش‌نیازها
+
+```bash
+pip install PyQt6
+2. اجرای فایل اصلی
+python main.py
+3. شروع اسکن
+لیست IP یا رنج‌های CIDR را بارگذاری کنید
+پروفایل عملکرد را انتخاب کنید
+موتور TLS را فعال یا غیرفعال کنید
+اسکن را شروع کنید
+
+نتایج به‌صورت خودکار در مسیرهای زیر ذخیره می‌شوند:
+
+output.txt
+پوشه reportlogs
+نسخه کامپایل‌شده
+
+یک نسخه اجرایی (EXE) آماده نیز برای کاربرانی که نمی‌خواهند Python را به‌صورت دستی نصب کنند ارائه شده است.
+
+نکات
+برای دقت بیشتر اسکن، VPN را غیرفعال کنید
+اسکن‌های بزرگ ممکن است به اینترنت پایدار و منابع سخت‌افزاری بیشتری نیاز داشته باشند
+
+
+
+
+# 🥖 NONVAYI Scanner
+
 Advanced CDN Fronting / TLS Edge Scanner built with Python + PyQt6.
 
 ## Features
@@ -45,8 +104,7 @@ Start scan
 Results will be saved automatically into:
 
 output.txt
-reportlogs Folder
-
+reportlogs folder
 Compiled Version
 
 A precompiled executable version is also included for users who don't want to install Python manually.
@@ -54,5 +112,3 @@ A precompiled executable version is also included for users who don't want to in
 Notes
 Disable VPNs before scanning for accurate results
 Large scans may require stable internet and higher system resources
-
-Author: blad0x
