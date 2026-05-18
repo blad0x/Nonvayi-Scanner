@@ -33,8 +33,8 @@
 ### 1. نصب پیش‌نیازها
 
 ```bash
-pip install PyQt6
-2. اجرای فایل اصلی
+pip install PyQt#6
+### 2. اجرای فایل اصلی
 python main.py
 3. شروع اسکن
 لیست IP یا رنج‌های CIDR را بارگذاری کنید
