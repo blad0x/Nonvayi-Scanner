@@ -52,7 +52,7 @@ python main.py
 نتایج به‌صورت خودکار در مسیرهای زیر ذخیره می‌شوند:
 
 - `output.txt`
-- پوشه `reportlogs`
+- `reportlogs`
 
 ## نسخه کامپایل‌شده
 
