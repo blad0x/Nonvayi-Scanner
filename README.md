@@ -33,7 +33,7 @@
 ### 1. نصب پیش‌نیازها
 
 ```bash
-pip install PyQt6
+pip install -r requirements.txt
 ```
 
 ### 2. اجرای فایل اصلی
