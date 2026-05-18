@@ -57,6 +57,7 @@ python main.py
 ## نسخه کامپایل‌شده
 
 یک نسخه اجرایی (EXE) آماده نیز برای کاربرانی که نمی‌خواهند Python را به‌صورت دستی نصب کنند ارائه شده است.
+
 https://github.com/blad0x/Nonvayi-Scanner/releases/tag/0.1
 
 ## نکات
